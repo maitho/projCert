@@ -7,6 +7,6 @@ Project Certification Testing
 
 ## Technologies
 
-. Docker
-. Puppet
-. Jenkins
+* Docker
+* Puppet
+* Jenkins
