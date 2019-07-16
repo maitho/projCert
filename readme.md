@@ -10,3 +10,9 @@ Project Certification Testing
 * Docker
 * Puppet
 * Jenkins
+* Ansible
+* Slave Nodes
+* Build pipeline
+* Selenium test
+* Post Build task
+
