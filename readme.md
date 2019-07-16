@@ -1,12 +1,12 @@
-# Simple PHP Website Deployed in a container
+# Simple PHP Website Deployed in a docker container
 
 Project Certification Testing
 
 ## Concepts
 
 
-## Technologoes
+## Technologies
 
-Docker
-Puppet
-Jenkins
+. Docker
+. Puppet
+. Jenkins
